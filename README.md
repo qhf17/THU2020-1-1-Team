@@ -1,2 +1,2 @@
-# THU2020-1-1-Team
-Data structure &amp; algorithm Homework PA1
+# THU2020 Homework PA1a
+Data Structure &amp; Algorithm 
